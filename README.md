@@ -36,5 +36,5 @@ This project is a **Sales Performance Dashboard** built in **Power BI** to analy
 
 ---
 
-👨‍💻 Author: *[Your Name]*  
+👨‍💻 Author: *Manisha*  
 
